@@ -40,7 +40,7 @@ A dedicated card that updates to show a detailed image and metrics (Year, Pieces
 To explore the interactive dashboard:
 
 1. Clone the Repository:
-git clone 
+git clone https://github.com/srishtirastogiwork23/Lego-Sets-Categorization.git
 
 2. Install Power BI Desktop: Ensure you have Power BI Desktop installed on your machine.
 
