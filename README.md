@@ -44,6 +44,6 @@ git clone
 
 2. Install Power BI Desktop: Ensure you have Power BI Desktop installed on your machine.
 
-3. Open the File: Navigate to the cloned folder and open the Lego_Sets_Categorization.pbix
+3. Open the File: Navigate to the cloned folder and open the LegoSets.pbix
 
 4. Interact: Use the slicers on the left (Theme Group, Theme, Age Range, Max Price) to filter the data and observe how the KPIs and the Set List change in real-time. Click on a row in the detailed Set List to update the specific information in the Set Detail Card on the right.
